@@ -27,9 +27,3 @@ A machine learning web application that predicts the likelihood of a telecom cus
 
 ---
 
-## 🚀 How to Run Locally
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/yourusername/customer-churn-app.git
-cd customer-churn-app
